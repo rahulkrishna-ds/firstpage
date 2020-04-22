@@ -1,0 +1,56 @@
+body{
+	margin-left:2%;
+	padding: 1%;
+}
+header{
+	width: 100%;
+	height: 200px;
+	background-color: rgba(255, 255, 255, 1);
+	background: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg") 0 0 no-repeat;
+	background-size: 100% auto;
+	text-align: center;
+}
+h1{
+	color: #ffffff;
+	text-transform: uppercase;
+	padding-top: 3%;
+	font-size: 20px;
+}
+nav a{
+	background: rgba(255, 255, 255, 0.3);
+	color: black;
+	width:10%;
+	height:1%;
+	padding: 1%;
+	margin-left: 7%;
+	margin-top: 1%;
+	border-radius: 5px;
+	float:left;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+}
+section{
+	float:right;
+	width:85%;
+	float: right;
+	font-size: 17px;
+}
+.active{
+	background: #ffffff;
+}
+.left{
+	display: block;
+	background: #6f831c;
+	height: 500px;
+	width: 14%;
+	float: left;
+}
+img{
+	border: black solid;
+	margin-left:9%;
+	margin-top: 30px;
+	height: 90px;
+	width: 80%;
+	display: block;
+}
